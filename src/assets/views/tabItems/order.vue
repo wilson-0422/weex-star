@@ -1,7 +1,7 @@
 <template>
     <div class="wrapper">
         <udot-nav-bar
-                title="优点24h便利店"
+                title="24h便利店"
                 background-color="#fc345c"
                 text-color="#FFFFFF"
                 @wxcMinibarLeftButtonClicked="minibarLeftButtonClick"
