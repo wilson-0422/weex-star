@@ -1,0 +1,9 @@
+{
+    "AppName": "WeexApp",
+    "Version": "0.1",
+    "BuildVersion": "0.1.0",
+    "AppId": "wilson_0422@icloud.com",
+    "CodeSign": "Wilson61468669",
+    "Profile": "weex",
+    "WeexBundle": "index.js"
+}
