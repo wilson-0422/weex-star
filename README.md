@@ -8,7 +8,7 @@
 #### weex platform  add android  
 *检查是否有platforms 文件*  
 ## 运行ios代码  
-#### weex run ios  
+#### weex run ios  (第一次会update,比较慢,需要x-code,)
 ## 运行安卓代码  
 #### 下载 android studio
 #### 直接复制android的代码到android studio运行。。。

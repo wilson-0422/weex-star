@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/wilson/weex/weex-star/platforms/ios/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m \
+  /Users/wilson/weex/weex-star/platforms/ios/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-prefix.pch \
+  /Users/wilson/weex/weex-star/platforms/ios/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h \
+  /Users/wilson/weex/weex-star/platforms/ios/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h \
+  /Users/wilson/weex/weex-star/platforms/ios/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h \
+  /Users/wilson/weex/weex-star/platforms/ios/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h

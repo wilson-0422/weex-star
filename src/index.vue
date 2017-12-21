@@ -68,12 +68,12 @@
                 tabItem.src = weexRouter.getURL(tabItem.src) ;
             }
 
-            http.storageGet('udotAuthToken',function (data) {
-                console.log("=====" + data)
-                if(!data){
-                    weexRouter.push('/login')
-                }
-            })
+//            http.storageGet('udotAuthToken',function (data) {
+//                console.log("=====" + data)
+//                if(!data){
+//                    weexRouter.push('/login')
+//                }
+//            })
         },
         methods: {
             tabBarOnClick: function (e) {
